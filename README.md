@@ -1,24 +1,40 @@
 ## Collins Onyetube
 
-**Backend engineer — Java/Spring Boot, Go, TypeScript.** Accra, Ghana.
+**Senior Backend Engineer & Team Lead.** Accra, Ghana.
 
-I build the parts users never see: payment and transaction services, auth, bank
-integrations, and the pipelines that ship them. Most of my work sits in fintech —
-wallets, e-statements, credit-bureau middleware, open-banking SDKs — with a side
-interest in offline-first desktop apps and on-device speech AI.
+Eight years building the systems banks and fintechs run on — core-banking middleware,
+interbank and SWIFT clearing, transaction alerting, wallets, and payment rails. I work
+mostly in **Java/Spring Boot, Go and TypeScript**, on Postgres and Kafka, shipped in
+Docker. Currently leading a team of 8 at [Turntabl](https://turntabl.io).
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+### What I've worked on
+
+- **Turntabl** *(Senior Engineer / Team Lead, 2024–)* — lead 8 engineers on Java Spring
+  Boot + Postgres + React products; drove an architecture redesign to carry 3× the users.
+- **Fluxus Technologies** *(Senior Backend, contract)* — Go/Postgres/Kafka services, a
+  Eureka-backed API gateway with unified Swagger, and a wallet supporting top-up,
+  withdrawal and transfer. Integrated Fincra, SmileID, Anchor and Bridge Card.
+- **Omnipresent** *(Senior Engineer)* — serverless employee-bulk-upload on AWS
+  (S3, EventBridge, DynamoDB, Lambda) and the Omni-Contractor microservice backend.
+- **Safaricom — DigiFarm** *(Senior Full Stack)* — AWS microservices and a split-payment
+  system letting farmers pay by cash, credit or **M-Pesa**.
+- **FASYL** *(Software Engineer)* — middleware bridging Oracle **Flexcube** and **Finacle**
+  core banking; rebuilt Access Bank Ghana's transaction alerts and monthly statements;
+  connected central-bank clearing houses for interbank and SWIFT transfers.
 
 ### Currently building
 
@@ -39,6 +55,9 @@ interest in offline-first desktop apps and on-device speech AI.
 | [grpc_rabbitmq_nodejs](https://github.com/collins169/grpc_rabbitmq_nodejs) | gRPC services over RabbitMQ |
 | [ExchangeRateAPI](https://github.com/collins169/ExchangeRateAPI) | Small currency-conversion service in Go |
 | [urlshortenerapi](https://github.com/collins169/urlshortenerapi) | URL shortener REST API, Java + Spring |
+
+BEng Computer Engineering, Accra Institute of Technology. Former mentor,
+[HNG Internship](https://hng.tech).
 
 ### Elsewhere
 
