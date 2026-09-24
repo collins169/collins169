@@ -1,41 +1,50 @@
-<h1 align="center">Hi 👋, I'm Collins Onyetube</h1>
-<h3 align="center">A passionate Software developer based in Ghana</h3>
+## Collins Onyetube
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=collins169&label=Profile%20views&color=0e75b6&style=flat" alt="collins169" /> </p>
+**Backend engineer — Java/Spring Boot, Go, TypeScript.** Accra, Ghana.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=collins169" alt="collins169" /></a> </p>
+I build the parts users never see: payment and transaction services, auth, bank
+integrations, and the pipelines that ship them. Most of my work sits in fintech —
+wallets, e-statements, credit-bureau middleware, open-banking SDKs — with a side
+interest in offline-first desktop apps and on-device speech AI.
 
-<p align="left"> <a href="https://twitter.com/kosi_collins" target="blank"><img src="https://img.shields.io/twitter/follow/kosi_collins?logo=twitter&style=for-the-badge" alt="kosi_collins" /></a> </p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 
-- 🌱 I’m currently learning **Reactjs**
+### Currently building
 
-- 💬 Ask me about **python, java, nodejs**
+- **NaveLight** — offline-first church presentation app (lyrics, scripture, media, live
+  captions) on Tauri v2 + Rust + React, with on-device Whisper cue assist. No cloud.
+- **Lexiopad** — turns sermons, podcasts and lectures into transcripts, summaries and
+  captioned short-form vertical clips.
+- **Easylink Secure Trade** — verified transaction and trust platform. Next.js 15 +
+  NestJS monorepo. Records externally-executed payments; never holds funds.
 
-- 📫 How to reach me **kosicollins169@gmail.com**
+### Public work
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1q5M3Vx-19dsNz-kgv9lx4tW6d6ywPA4K/view?usp=sharing](https://drive.google.com/file/d/1q5M3Vx-19dsNz-kgv9lx4tW6d6ywPA4K/view?usp=sharing)
+| Repo | What it is |
+| --- | --- |
+| [EntityLocker](https://github.com/collins169/EntityLocker) | Java utility giving row-level-DB-style locking by entity ID, for concurrent storage and caching layers |
+| [payment-wallet-api](https://github.com/collins169/payment-wallet-api) | Payments-wallet backend — accounts, funding, transfers |
+| [EstatementService](https://github.com/collins169/EstatementService) | Java service driving a C# ReportViewer DLL to render bank e-statements as PDF |
+| [grpc_rabbitmq_nodejs](https://github.com/collins169/grpc_rabbitmq_nodejs) | gRPC services over RabbitMQ |
+| [ExchangeRateAPI](https://github.com/collins169/ExchangeRateAPI) | Small currency-conversion service in Go |
+| [urlshortenerapi](https://github.com/collins169/urlshortenerapi) | URL shortener REST API, Java + Spring |
 
-- ⚡ Fun fact **I'm very curious**
+### Elsewhere
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/collins169" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="collins169" height="30" width="40" /></a>
-<a href="https://twitter.com/kosi_collins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kosi_collins" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/collins-onyetube-30232310b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="collins-onyetube-30232310b/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/7666633" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7666633" height="30" width="40" /></a>
-<a href="https://fb.com/kosicollins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kosicollins" height="30" width="40" /></a>
-<a href="https://instagram.com/kosi_collins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kosi_collins" height="30" width="40" /></a>
-<a href="https://medium.com/@collinsonyetube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@collinsonyetube" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kosicollins169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kosicollins169" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/collins169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="collins169" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/collins169" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="collins169" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1280px-Nextjs-logo.svg.png" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=collins169&show_icons=true&locale=en&layout=compact" alt="collins169" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=collins169&show_icons=true&locale=en" alt="collins169" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=collins169&" alt="collins169" /></p>
+[Blog](https://medium.com/@collinsonyetube) ·
+[dev.to](https://dev.to/collins169) ·
+[LinkedIn](https://linkedin.com/in/collins-onyetube-30232310b/) ·
+[Stack Overflow](https://stackoverflow.com/users/7666633) ·
+[X](https://twitter.com/kosi_collins) ·
+kosicollins169@gmail.com
